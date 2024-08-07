@@ -40,5 +40,5 @@ SO THAT I can organize and plan my business
 - Follow the prompts to create,delete, or view employees,managers, and departments.
 
 ## Walkthrough video 
-
+https://drive.google.com/file/d/1zxymRf0OZkEg-Cq7N-u8v-VDuol8svnX/view
 

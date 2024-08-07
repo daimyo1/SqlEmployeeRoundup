@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-
+const pool = require('./config/connection');
 
 const logo = `
 ░█▀▀░█▄█░█▀█░█░░░█▀█░█░█░█▀▀░█▀▀░░░█▀▄░█▀█░█░█░█▀█░█▀▄░█░█░█▀█░█
